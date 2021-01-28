@@ -1,0 +1,16 @@
+{
+    "version": "2.0.0",
+    "pluginName": "Hyperf 开发文档",
+    "description": "Hyperf 开发文档",
+    "author": "芳缘",
+    "homepage": "https://www.jianshu.com/u/e9a1a99d1b02",
+    "preload": "preload.js",
+    "logo": "logo.png",
+    "features": [
+        {
+            "code": "Hyperf",
+            "explain": "Hyperf 开发文档",
+            "cmds": ["Hyperf"]
+         }
+    ]
+}
